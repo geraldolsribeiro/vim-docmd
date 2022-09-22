@@ -1,1 +1,1 @@
-# vim-docmd
+# Highlight for docmd
