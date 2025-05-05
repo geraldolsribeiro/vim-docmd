@@ -1,3 +1,7 @@
+" ----------------------------------------------------------------------
+" Copyright (C) 2022-2025 Geraldo Ribeiro <geraldo@intmain.io>
+" ----------------------------------------------------------------------
+
 syn match intmain_docmd    /#\(   \|{{{\|}}}\).*/
 syn match intmain_docmd_h1 /#   # .*/   contained containedin=intmain_docmd display
 syn match intmain_docmd_h2 /#   ## .*/  contained containedin=intmain_docmd display
